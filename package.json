@@ -1,6 +1,9 @@
 {
   "name": "firstnode",
   "version": "1.0.0",
+  "dependencies": {
+        "express": "~4.11.0"
+    },
   "description": "test node git",
   "main": "index.js",
   "scripts": {
